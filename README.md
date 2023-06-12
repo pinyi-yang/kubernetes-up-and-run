@@ -6,4 +6,4 @@
 - overlay filesystem
 - Dockerfile
   - automate the creation of a container image
-  - 
+  - syntax: https://docs.docker.com/engine/reference/builder/
